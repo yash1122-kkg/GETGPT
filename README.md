@@ -12,6 +12,6 @@ Context-aware and intelligent responses
 Simple and lightweight design for developers
 
 🚀 GETGPT is perfect for experimenting with AI-driven text conversations and building custom chat solutions.
-You can also visit the website **[Visit GETGPT Website](https://getgpt112.netlify.app/)**here
+You can also visit the website **[Visit GETGPT Website](https://getgpt112.netlify.app/)** here
 
 ![GETGPT Logo](src/assets/Preview.png)
