@@ -12,3 +12,5 @@ Context-aware and intelligent responses
 Simple and lightweight design for developers
 
 🚀 GETGPT is perfect for experimenting with AI-driven text conversations and building custom chat solutions.
+
+![GETGPT Logo](src/assets/Preview.png)
