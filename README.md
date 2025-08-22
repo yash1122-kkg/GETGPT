@@ -1,4 +1,4 @@
-# GETGPT is a text-based AI chatbot built as a clone of Gemini and ChatGPT.
+# GETGPT is a text-based AI chatbot inspired by Gemini and ChatGPT.
 It is designed purely for textual interactions, enabling users to explore conversational AI without additional features like images or speech.
 
 # ✨Key Features:
