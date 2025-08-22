@@ -15,3 +15,6 @@ Simple and lightweight design for developers
 You can also visit the website **[Visit GETGPT Website](https://getgpt112.netlify.app/)** here
 
 ![GETGPT Logo](src/assets/Preview.png)
+
+# Forking my Repo:
+Clone this repository git clone https://github.com/yash1122-kkg/GETGPT.git
