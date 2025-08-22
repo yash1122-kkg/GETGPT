@@ -3,7 +3,7 @@ import {
 } from '@google/genai';
 
 async function runChat(prompt) {
-  const ai = new GoogleGenAI({apiKey: 'AIzaSyDZvG_C79P8wyRdD86vglCUfj6YgUrR8JA'});
+  const ai = new GoogleGenAI({apiKey: '[Your_API_Key]'});
   const config = {
     thinkingConfig: {
       thinkingBudget: -1,
