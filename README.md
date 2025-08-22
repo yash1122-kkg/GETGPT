@@ -17,4 +17,5 @@ You can also visit the website **[Visit GETGPT Website](https://getgpt112.netlif
 ![GETGPT Logo](src/assets/Preview.png)
 
 # Forking my Repo:
-Clone this repository git clone https://github.com/yash1122-kkg/GETGPT.git
+Clone this repository 
+`git clone https://github.com/yash1122-kkg/GETGPT.git`
